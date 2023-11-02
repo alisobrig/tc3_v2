@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="untitled">
+    <title>Table of common paranormal investigation technologies and prices</title>
+    <shortdesc> There are many paranormal technologies which range in price and novelty. Technologies are not required for investigation.</shortdesc>
+ 
+    <refbody>
+        <properties>
+            <prophead>
+                <proptypehd>Technology</proptypehd>
+                <propvaluehd>Price</propvaluehd>
+            </prophead>
+            <property>
+                <proptype>Voice recorder</proptype>
+                <propvalue>$100</propvalue>
+            </property>
+            <property>
+                <proptype>Video camera</proptype>
+                <propvalue>$100-$150</propvalue>
+            </property>
+            <property>
+                <proptype>Spirit box</proptype>
+                <propvalue>$90</propvalue>
+            </property>
+            <property>
+                <proptype>Ovilus</proptype>
+                <propvalue>$600</propvalue>
+            </property>
+            <property>
+                <proptype>REM pod</proptype>
+                <propvalue>$40-$150</propvalue>
+            </property>
+            <property>
+                <proptype>EMF detector</proptype>
+                <propvalue>$16</propvalue>
+            </property>
+        </properties>
+    </refbody>
+</reference>

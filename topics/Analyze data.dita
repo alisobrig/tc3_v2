@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Analyze_data">
+    <title>Analyzing data from paranormal investigation</title>
+    <shortdesc>Data that has recorded paranormal phenomenon often need to be adjusted before
+        presenting. </shortdesc>
+    <taskbody>
+        <context>
+            <p>Data collected from a paranormal investigation can be explored in multiple ways but
+                often follow a common procedure</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Backup data in multiple places</cmd>
+            </step>
+            <step>
+                <cmd>Download image and audio editors</cmd>
+            </step>
+            <step>
+                <cmd>Slow down, speed up, and/or change the tonal settings on audio to hear voices</cmd>
+            </step>
+            <step>
+                <cmd>Alter the lighting and color in images and video</cmd>
+            </step>
+            <step>
+                <cmd>Save alterations to a common source like USB or external hard drive</cmd>
+            </step>
+            <step>
+                <cmd>Present evidence for collaborative analysis with others</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

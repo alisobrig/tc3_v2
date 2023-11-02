@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Project</title>
+    <topicref href="topics/history_of_paranormal_investigation.dita"/>
+    <topicref href="topics/Method%20of%20paranormal%20investigation.dita">
+        <topicref href="topics/Choose%20investigation%20site.dita"/>
+        <topicref href="topics/Conduct%20exploratory%20interview.dita"/>
+        <topicref href="topics/Gather%20data.dita">
+            <topicref href="topics/Technology%20and%20prices.dita"/>
+        </topicref>
+        <topicref href="topics/Analyze%20data.dita"/>
+    </topicref>
+    <topicref href="topics/paranormal_investigation.dita"/>
+</map>

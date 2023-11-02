@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/alison_obright/Desktop/umn_rstc/WDT_DanClass/tc3_v2/project.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Project</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Project</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="history_of_paranormal_investigation"><resourceid appid="history_of_paranormal_investigation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">History of paranormal investigation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Paranormal phenomena have captured the attention of the public and the sciences in         different cultures throughout various eras of human history. The history reveals that         methods and technologies of investigation are similar to those we use today. </shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="method_of_paranormal_investigation"><resourceid appid="method_of_paranormal_investigation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Method of paranormal investigation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Paranormal investigation can follow many different methods though they typically         share similar features. Methods may include the use of people and technology to collect         data.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="choose_investigation_site"><resourceid appid="choose_investigation_site" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Choosing investigation site</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Choosing a place or person to investigate is an important task for paranormal         investigation. Limited resources mean investigators must choose their site         carefully.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Conduct_exploratory_interview"><resourceid appid="Conduct_exploratory_interview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Conducting exploratory interviews</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Exploratory interviews gather context about paranormal phenomena. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Gather_data"><resourceid appid="Gather_data" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Gathering data during paranormal investigation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="untitled"><resourceid appid="untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Table of common paranormal investigation technologies and prices</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> There are many paranormal technologies which range in price and novelty. Technologies are not required for investigation.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Analyze_data"><resourceid appid="Analyze_data" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Analyzing data from paranormal investigation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Data that has recorded paranormal phenomenon often need to be adjusted before         presenting. </shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="paranormal_investigation"><resourceid appid="paranormal_investigation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Paranormal investigation</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Paranormal investigation is the investigation of unseen or yet unproven phenomena. </shortdesc></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="history_of_paranormal_investigation" oid="history_of_paranormal_investigation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">History of paranormal investigation</ph></title>
+    <shortdesc class="- topic/shortdesc ">Paranormal phenomena have captured the attention of the public and the sciences in
+        different cultures throughout various eras of human history. The history reveals that
+        methods and technologies of investigation are similar to those we use today. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Investigating unseen phenomena has a long history. When the topics become observable,
+            paranormal investigation comes under the realm of science. In the 19th century many
+            scientists, including Marie Curie, were interested in the paranormal. The development of
+            technologies like the telegraph and phonograph lead to questions about the limits of
+            time, space, and mortality. Projects of paranormal investigation are not typically
+            considered within the realm of the professional sciences today. </p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="method_of_paranormal_investigation" oid="method_of_paranormal_investigation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Method of paranormal investigation</ph></title>
+    <shortdesc class="- topic/shortdesc "> Paranormal investigation can follow many different methods though they typically
+        share similar features. Methods may include the use of people and technology to collect
+        data.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Many paranormal investigators use a scientific or pseudo-scientific methods in their
+            investigation. Investigators each have their own methods which rely on technologies and
+            human experiences. One common feature is carefully documenting experiences and movements
+            to help in later debunking.   </p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="choose_investigation_site" oid="choose_investigation_site" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Choosing investigation site</ph></title>
+    <shortdesc class="- topic/shortdesc ">Choosing a place or person to investigate is an important task for paranormal
+        investigation. Limited resources mean investigators must choose their site
+        carefully.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Every site of an investigation is different and each investigator will have their
+            own preferences.</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Research the history of prospective locations including accounts previous
+                    hauntings and investigations</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">List narratives and people of interest</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Consider technology needs</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Contact the site or person to introduce provided services and estimate date and
+                    time of investigation</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Confirm logistical details and supply lists</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="Conduct_exploratory_interview" oid="Conduct_exploratory_interview" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Conducting exploratory interviews</ph></title>
+    <shortdesc class="- topic/shortdesc ">Exploratory interviews gather context about paranormal phenomena. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Interviews are a useful way to gather information about supposed experiences with
+            paranormal phenomena. Speaking to those who experienced the phenomena can provide
+            important context about the site and help determine if further investigation is needed. </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Send survey to collect preliminary information about why they believe a
+                    haunting is taking place</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Determine if investigation is necessary based on survey responses</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Contact interviewee(s) to set up a time and place to discuss their
+                    experiences</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Develop specific, open-ended questions to gather additional information about experiences shared in the survey</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Meet with the participants and carefully document their answers</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="Gather_data" oid="Gather_data" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Gathering data during paranormal investigation</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Determine necessary equipment</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<reference class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="untitled" oid="untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Table of common paranormal investigation technologies and prices</ph></title>
+    <shortdesc class="- topic/shortdesc "> There are many paranormal technologies which range in price and novelty. Technologies are not required for investigation.</shortdesc>
+ 
+    <refbody class="- topic/body        reference/refbody ">
+        <properties class="- topic/simpletable reference/properties ">
+            <prophead class="- topic/sthead      reference/prophead ">
+                <proptypehd class="- topic/stentry     reference/proptypehd " dita-ot:x="1" dita-ot:y="1">Technology</proptypehd>
+                <propvaluehd class="- topic/stentry     reference/propvaluehd " dita-ot:x="2" dita-ot:y="1">Price</propvaluehd>
+            </prophead>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="2">Voice recorder</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="2">$100</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="3">Video camera</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="3">$100-$150</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="4">Spirit box</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="4">$90</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="5">Ovilus</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="5">$600</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="6">REM pod</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="6">$40-$150</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="7">EMF detector</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="7">$16</propvalue></property>
+        </properties>
+    </refbody>
+</reference></task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="Analyze_data" oid="Analyze_data" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Analyzing data from paranormal investigation</ph></title>
+    <shortdesc class="- topic/shortdesc ">Data that has recorded paranormal phenomenon often need to be adjusted before
+        presenting. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Data collected from a paranormal investigation can be explored in multiple ways but
+                often follow a common procedure</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Backup data in multiple places</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Download image and audio editors</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Slow down, speed up, and/or change the tonal settings on audio to hear voices</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Alter the lighting and color in images and video</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save alterations to a common source like USB or external hard drive</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Present evidence for collaborative analysis with others</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="paranormal_investigation" oid="paranormal_investigation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Paranormal investigation</ph></title>
+    <shortdesc class="- topic/shortdesc ">Paranormal investigation is the investigation of unseen or yet unproven phenomena. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Paranormal investigation is the practice of gathering information about unseen entities.
+            Entities can include ghosts, cryptids, aliens, or other entities. Investigations take
+            place in many settings including homes and businesses. </p>
+        <p class="- topic/p ">Investigators may be contacted directly by a property manager or person who has seen or
+            experienced something paranormal. In many cases, investigators offer their services free
+            of charge in exchange for the rights to the evidence they collect during the
+            investigation. </p>
+    </conbody>
+</concept></map>

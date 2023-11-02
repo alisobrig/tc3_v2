@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="history_of_paranormal_investigation"
+               path="topics/history_of_paranormal_investigation.html"/>
+   <appContext helpID="method_of_paranormal_investigation"
+               path="topics/Method%20of%20paranormal%20investigation.html"/>
+   <appContext helpID="choose_investigation_site"
+               path="topics/Choose%20investigation%20site.html"/>
+   <appContext helpID="Conduct_exploratory_interview"
+               path="topics/Conduct%20exploratory%20interview.html"/>
+   <appContext helpID="Gather_data" path="topics/Gather%20data.html"/>
+   <appContext helpID="untitled" path="topics/Technology%20and%20prices.html"/>
+   <appContext helpID="Analyze_data" path="topics/Analyze%20data.html"/>
+   <appContext helpID="paranormal_investigation"
+               path="topics/paranormal_investigation.html"/>
+</map>

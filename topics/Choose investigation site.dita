@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="choose_investigation_site">
+    <title>Choosing investigation site</title>
+    <shortdesc>Choosing a place or person to investigate is an important task for paranormal
+        investigation. Limited resources mean investigators must choose their site
+        carefully.</shortdesc>
+    <taskbody>
+        <context>Every site of an investigation is different and each investigator will have their
+            own preferences.</context>
+        <steps>
+            <step>
+                <cmd>Research the history of prospective locations including accounts previous
+                    hauntings and investigations</cmd>
+            </step>
+            <step>
+                <cmd>List narratives and people of interest</cmd>
+            </step>
+            <step>
+                <cmd>Consider technology needs</cmd>
+            </step>
+            <step>
+                <cmd>Contact the site or person to introduce provided services and estimate date and
+                    time of investigation</cmd>
+            </step>
+            <step>
+                <cmd>Confirm logistical details and supply lists</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Conduct_exploratory_interview">
+    <title>Conducting exploratory interviews</title>
+    <shortdesc>Exploratory interviews gather context about paranormal phenomena. </shortdesc>
+    <taskbody>
+        <context>Interviews are a useful way to gather information about supposed experiences with
+            paranormal phenomena. Speaking to those who experienced the phenomena can provide
+            important context about the site and help determine if further investigation is needed. </context>
+        <steps>
+            <step>
+                <cmd>Send survey to collect preliminary information about why they believe a
+                    haunting is taking place</cmd>
+            </step>
+            <step>
+                <cmd>Determine if investigation is necessary based on survey responses</cmd>
+            </step>
+            <step>
+                <cmd>Contact interviewee(s) to set up a time and place to discuss their
+                    experiences</cmd>
+            </step>
+            <step>
+                <cmd>Develop specific, open-ended questions to gather additional information about experiences shared in the survey</cmd>
+            </step>
+            <step>
+                <cmd>Meet with the participants and carefully document their answers</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
